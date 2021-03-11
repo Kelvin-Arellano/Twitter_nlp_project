@@ -1,7 +1,7 @@
 # Understanding Twitter Sentiment Analysis
 
 ## Overview
-![Blight](https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2014/07/lafayette.jpg?itok=0My_zKs4)
+![Sentiment](https://cdn-images-1.medium.com/fit/t/1600/480/1*VT7AxioAGXplMe7RAEYfSA.png)
 
 
    For this project we wanted to better predict what kind of sentiment a twitter comment 
