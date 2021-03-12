@@ -6,10 +6,10 @@
 
    For this project we wanted to better predict what kind of sentiment a twitter comment 
    had, between positive and negative.
-   The data that we used can be found at<b>
-   https://data.world/crowdflower/brands-and-product-emotions<b>
-   and<b>
-   https://www.kaggle.com/kazanova/sentiment140<b>
+   The data that we used can be found at<br>
+   https://data.world/crowdflower/brands-and-product-emotions<br>
+   and<br>
+   https://www.kaggle.com/kazanova/sentiment140<br>
 
    When any particular event takes place you want to know how it was recieved, but going 
    through each individual tweet and understanding the sentiment can be time consumming
@@ -36,7 +36,7 @@
    allowed us to drop neutral sentiment classified tweets.
    Once we were able to merge the datasets we moved on to cleaning the tweets with regex
    patterns, and lammentizing the words with tfidf.
-   
+   ![overall](.images/overall_wordcloud.png)
    We were also able to start tagging the tweets in regards to targeted nouns and entity
    recognition. Unfortunaly we weren't able to fully impliment these features but given 
    even one more day, would be able to clean and utilize these features.
