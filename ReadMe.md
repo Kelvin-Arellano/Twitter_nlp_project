@@ -31,12 +31,13 @@
 ## Results
 
    For this project we started with very skewed data, so we wanted to supplement this 
-   data with a more equally distributed one. 
+   data with a more equally distributed one. <br>
+   ![distribution](./Images/distribution.png)<br>
    This would allow us to gather more data on word choice along each sentiment and also 
    allowed us to drop neutral sentiment classified tweets.
    Once we were able to merge the datasets we moved on to cleaning the tweets with regex
    patterns, and lammentizing the words with tfidf.<br>
-   ![overall](.Images/overall_wordcloud.png)<br>
+   ![overall](./Images/overall_wordcloud.png)<br>
    We were also able to start tagging the tweets in regards to targeted nouns and entity
    recognition. Unfortunaly we weren't able to fully impliment these features but given 
    even one more day, would be able to clean and utilize these features.
