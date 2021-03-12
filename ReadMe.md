@@ -69,7 +69,8 @@ Using Scikit-learn 6 classification models were crated.
 - SVC
 - SVC with GridSearchCV
 
-It was determined that the SVC with GridSearchCV model perfromed the best and was utilized for the final implementation. 
+It was determined that the SVC with GridSearchCV model perfromed the best and was utilized for the final implementation.<br>
+![distribution](./Images/Final.png)<br>
 
 ## Conclusion
 The synthesized data was analyzed and modeled. With regards to negative analysis we saw that when talking about a product 
