@@ -6,10 +6,10 @@
 
    For this project we wanted to better predict what kind of sentiment a twitter comment 
    had, between positive and negative.
-   The data that we used can be found at
-   https://data.world/crowdflower/brands-and-product-emotions
-   and
-   https://www.kaggle.com/kazanova/sentiment140
+   The data that we used can be found at<b>
+   https://data.world/crowdflower/brands-and-product-emotions<b>
+   and<b>
+   https://www.kaggle.com/kazanova/sentiment140<b>
 
    When any particular event takes place you want to know how it was recieved, but going 
    through each individual tweet and understanding the sentiment can be time consumming
